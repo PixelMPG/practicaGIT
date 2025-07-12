@@ -1,1 +1,1 @@
-- Luis Gerardo - Soy colaborador y quiero aprender GitHub para colaborar en proyectos de desarrollo.
+- Luis Gerardo - Soy colaborador y quiero aprender GitHub para colaborar en proyectos de desarrollo
