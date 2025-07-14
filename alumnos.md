@@ -5,3 +5,4 @@ Luis Gerardo, Soy colaborador y quiero aprender GitHub para colaborar en proyect
 Jardel Ornelas, Colaborador listo para aprender Github
 Fatima Hernandez, Soy colaboradora y estoy dispuesta aprender mas de GitHub
 Christian Servín, Quiero aprender GitHub para colaborar en proyectos
+Eduardo Ponce, Quiero aprender mas sobre github
